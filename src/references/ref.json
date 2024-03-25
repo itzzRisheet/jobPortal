@@ -1,0 +1,70 @@
+{
+  "1": {
+    "title": "Main theme",
+    "Description": "Inspired from ",
+    "url": "https://jthemes.com/themes/wp/jobbox/home-2/",
+    "points": [
+      {
+        "landingPage": [
+          "Navbar > logo , find a job() , recruiters , Pages(about , contact , pricings) ",
+          "HERO component : title , search option > industry , location , keyword and search",
+          "browse by catagory > catagories in card format (logo ,jobtitle , jobs available)",
+          "jobs of the day > a full component that has filters as well (catagory wise) SEE MORE OPTION added",
+          "designed advertisement like div specially for you website another HERO component ( search jobs button )",
+          " long customer reviews option line ( 15K+ complete job achieved , 16+ our office , 86+ clients , etc...",
+          "top recruiters CARDS (logo , company name , stars review , location , jobs open) ",
+          "job by location cards",
+          "News blogs for how to get hired like things",
+          "An email only form for daily updates",
+          "footer > company/personal details , resources > (about us , candidates , contact us ) , Quick links , More ( privacy , helps , terms , faq ) , download app ..."
+        ],
+        "Find job page": [
+          "HERO availableJobsNumbers and same job search form ",
+          "Cards for jobs searchs or trending",
+          "same news blogs and footer"
+        ],
+        "Job details": [
+          "CARD : job Thumbnail , job title , job type > full time part time , posted date",
+          "all the details : offer , requirements , prefered , what you will get",
+          "apply now or save the job buttton"
+        ],
+        "Recruiters": [
+          "HERO browse Recruiters",
+          "Showing results and filters like show and sort by",
+          "CARDS : company logo , name , review ratings , location of the company , job opened",
+          "ADD pagination"
+        ],
+        "Recruiters details": [
+          "same CARD > thumbnail , logo , name , location , slogan , contact us",
+          {
+            "Left" : "true",
+            "AboutUS": "details bio , Essential skills ",
+            "Recruitments": " Details",
+            "People": "Details"
+          },{
+            "Right" : "true",
+            "Card" : "Company name , MAP , company field , location , contact details , send message"
+          }
+        ],
+        "candidates" : [
+            "same search options",
+            "Cards for candidates > Avatar image (big) , name , position , ratings , bio , tags(experties) , footer : location and fees"
+        ],
+        "candidate details" : {
+            "LEFT" : [
+              "CARD : Profile and dp , name , location , position , ratings , download CV",
+              "Details about me and add skills and exterties percentage with range like"
+            ],
+            "Right" : [
+                "same map like : overview , experience , expected salary ,language , educational level , address details , send message"
+            ]
+        }
+      }
+    ]
+  },
+  "2": {
+    "title": "Dark Mode",
+    "Description": "same UI to try in dark mode",
+    "url": "https://dribbble.com/shots/21214190-Jobland-Job-Finder-Website-Template-Dark"
+  }
+}
